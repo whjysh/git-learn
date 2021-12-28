@@ -1,7 +1,7 @@
 git -add
-asdjaskf
+asdja   B分支  skf
 
 分支效果
     master：文字
     a分支：
-    b分支：
+    b分支：在b分支更改
