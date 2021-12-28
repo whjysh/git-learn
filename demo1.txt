@@ -4,4 +4,4 @@ asdjaskf
 分支效果
     master：文字
     a分支：
-    b分支：git reset HEAD^1
+    b分支：
